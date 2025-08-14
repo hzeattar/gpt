@@ -1,0 +1,14 @@
+{
+  "name": "dropshipping-platform",
+  "version": "1.0.0",
+  "description": "Skeleton for a dropshipping platform",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4",
+    "cors": "^2.8.5"
+  }
+}
